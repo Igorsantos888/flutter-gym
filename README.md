@@ -79,9 +79,6 @@ pulse_fit/
 
 Abra o terminal na pasta do projeto:
 
-```bash
-cd "C:\Users\Igor Santos\.gemini\antigravity\scratch\pulse_fit"
-```
 
 ### 1. Rodar no Navegador (Flutter Web):
 ```bash
